@@ -19,7 +19,7 @@ A versatile and efficient proxy framework.
 | SOCKS5 | ✅ | ✅ |
 | Shadowsocks | ✅ | ✅ |
 | Trojan | ✅ | ✅ |
-| VMess | ❌ | ✅ |
+| VMess | ❌ | ✅ | 
 | Vless | ❌ | ✅ |
 
 ### Transports & Security
